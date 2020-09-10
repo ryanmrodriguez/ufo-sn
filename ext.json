@@ -1,0 +1,15 @@
+{
+  "identifier": "org.xivera.ufo",
+  "name": "UFO",
+  "content_type": "SN|Theme",
+  "area": "themes",
+  "version": "1.0.0",
+  "download_url": "https://gitlab.com/ryanrodriguez/ufo/-/archive/v0.0.2/ufo-v0.0.2.zip",
+  "url": "https://gitlab.com/ryanrodriguez/ufo/-/raw/master/ufo.css",
+  "dock_icon": {
+    "type": "circle",
+    "background_color": "#086DD6",
+    "foreground_color": "#ffffff",
+    "border_color": "#086DD6"
+ }
+}
