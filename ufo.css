@@ -15,7 +15,7 @@
   --sn-stylekit-neutral-color: #0d7ce0;
   --sn-stylekit-neutral-contrast-color: white;
 
-  --sn-stylekit-info-color: #48ca96;
+  --sn-stylekit-info-color: #00c5bc;
   --sn-stylekit-info-contrast-color: #000000;
 
   --sn-stylekit-success-color: #0ce671;
@@ -77,7 +77,7 @@
 }
 
 .note.selected {
-  background-color: #4affd9 !important;
+  background-color: #33ffaa !important;
   color: #000000 !important;
   font-weight: bold;
 }
